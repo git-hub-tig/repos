@@ -1,1 +1,1 @@
-# repos is a js_tutorial by a newbie
+# repos is a shallow js_tutorial 
